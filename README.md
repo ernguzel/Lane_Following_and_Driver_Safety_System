@@ -1,6 +1,6 @@
 # Lane_Following_and_Driver_Safety_System
 
-**Bu proje, TurtleBot3 robotu kullanarak otonom şerit takibi ve sürücü güvenliğini simüle etmeyi amaçlıyor. Robot, belirli bir dünyada (world) hareket ederken, sürücünün dikkatini izleyen ek bir kamera ile güvenlik sağlanır. Sürücü uykuya dalarsa veya dikkati dağılırsa, robot otomatik olarak durdurulur.**
+**Bu proje, TurtleBot3 robotu kullanarak otonom şerit takibi ve sürücü güvenliğini simüle etmeyi amaçlıyor. Robot, belirli bir dünyada (world) hareket ederken, sürücünün dikkatini izleyen ek bir kamera ile güvenlik sağlanır. Sürücü uykuya dalarsa , robot otomatik olarak durdurulur.**
 
 ## Özellikler
 - **Şerit Takibi**: TurtleBot3, simülasyon dünyasındaki şeritleri tespit ederek şeritte kalır ve güvenli bir şekilde hareket eder.
